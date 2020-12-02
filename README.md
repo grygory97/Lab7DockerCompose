@@ -4,7 +4,7 @@ Projekt pozwalajcy stworzy serwer na usludze LAMP
 
 ## Sklad projektu
 * Apache
-* PHP 7.4
+* PHP 7.3
 * MySQL
 
 ### Budowa projektu
