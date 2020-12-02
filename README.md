@@ -30,3 +30,11 @@ Podgląd html
 ```bash
 curl localhot:6666/index.html
 ```
+
+### docker-compose-viz
+
+Wizualizacja pliku docker compose 
+
+```bash
+docker run --rm -it --name dcv -v $(pwd):/input pmsipilot/docker-compose-viz render -m image docker-compose.yml
+```
